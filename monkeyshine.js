@@ -42,3 +42,9 @@ setTimeout(function(){
 		}
 	});
 }());
+
+// Replace all images on the page with a picture of Justin Bieber
+Array.prototype.slice.call(document.querySelectorAll('img')).map(function(el){
+	el.src = 'http://www.justinbiebermusic.com/assets/gifs/tumblr_mgv73oSOLX1rihrj0o2_250.gif';
+});
+
