@@ -12,7 +12,7 @@ I have tested these scripts in Google Chrome, Firefox and Safari, they should al
 
 This script immediately turns a web page upside down, not too subtle but guaranteed to have an impact.
 
-[User Script](http://codebox.org.uk/scripts/greasemonkey/Flip180.user.js)  
+[User Script](https://codebox.net/js/userscripts/Flip180.user.js)  
 
 * * *
 
@@ -20,7 +20,7 @@ This script immediately turns a web page upside down, not too subtle but guarant
 
 This script turns every image on the page upside-down.
 
-[User Script](http://codebox.org.uk/scripts/greasemonkey/FlipImages.user.js)  
+[User Script](https://codebox.net/js/userscripts/FlipImages.user.js)  
 
 * * *
 
@@ -28,7 +28,7 @@ This script turns every image on the page upside-down.
 
 This script makes small adjustments to the orientation of various elements on the page, giving it a nice 'broken' look.
 
-[User Script](http://codebox.org.uk/scripts/greasemonkey/RandomOrientations.user.js)  
+[User Script](https://codebox.net/js/userscripts/RandomOrientations.user.js)  
 
 * * *
 
@@ -36,7 +36,7 @@ This script makes small adjustments to the orientation of various elements on th
 
 Replaces all images on the page with a picture of teen heartthrob Justin Bieber
 
-[User Script](http://codebox.org.uk/scripts/greasemonkey/Bieberfier.user.js)  
+[User Script](https://codebox.net/js/userscripts/Bieberfier.user.js)  
 
 * * *
 
@@ -50,6 +50,6 @@ This script does nothing until someone presses a key on keyboard or moves the mo
 
 This script replaces any text that the victim enters with the words 'I like frogs'
 
-[User Script](http://codebox.org.uk/scripts/greasemonkey/ILikeFrogs.user.js)  
+[User Script](https://codebox.net/js/userscripts/ILikeFrogs.user.js)  
 
 * * *
